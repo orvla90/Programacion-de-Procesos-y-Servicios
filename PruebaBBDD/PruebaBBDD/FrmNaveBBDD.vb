@@ -1,7 +1,7 @@
 ﻿Imports System.Data.OleDb
 Public Class FrmNaveBBDD
     Dim oConexion As New OleDbConnection
-    Dim oDataAdapter As New OleDbDataAdapter("Select * from Datos", oConexion)
+    Dim oDataAdapter As New OleDbDataAdapter("Select * from Datos", oConexion) ' Me crea la consulta
     'Dim oDataAdapter As OleDbDataAdapter
     Dim oCommandBuilder = New OleDbCommandBuilder(oDataAdapter)
     Dim oDataSet As New DataSet
@@ -27,9 +27,14 @@ Public Class FrmNaveBBDD
         'oDataAdapter = Nothing
 
         oConexion.Close()
+
         Posicion = 0
 
         Cargar()
+
+
+
+
 
         'If Res = 6 Then GrpDatos.Visible = True
         'MessageBox.Show(Res)
@@ -81,7 +86,7 @@ Public Class FrmNaveBBDD
         oDataRow("Fecha") = TxtFecha.Text
         oDataSet.Tables("Datos").Rows.Add(oDataRow)
         ' BtnLimpiarCampos.PerformClick()
-        Posicion = oDataSet.Tables("Datos").Rows.Count - 1
+        ' Posicion = oDataSet.Tables("Datos").Rows.Count - 1
         Posicion = 0
         Cargar()
     End Sub
@@ -122,6 +127,7 @@ Public Class FrmNaveBBDD
         oDataSet.Tables("Datos").AcceptChanges()
         BtnPrimero.PerformClick()
 
+
     End Sub
 
 
@@ -143,6 +149,7 @@ Public Class FrmNaveBBDD
         LblMarcador.Text = "No existen filas"
         ' BtnPrimero.PerformClick()
 
+
     End Sub
 
     Private Sub FrmNaveBBDD_Closed(sender As Object, e As EventArgs) Handles Me.Closed
@@ -162,9 +169,11 @@ Public Class FrmNaveBBDD
 
         Dim oTabla As New DataTable
 
+
         oTabla = oDataRow.CopyToDataTable
 
         DtgDatos.DataSource = oTabla
+
 
     End Sub
 

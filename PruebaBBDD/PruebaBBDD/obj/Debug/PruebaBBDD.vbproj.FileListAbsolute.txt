@@ -37,17 +37,17 @@ C:\Users\tere\Desktop\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.Generate
 C:\Users\tere\Desktop\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.exe
 C:\Users\tere\Desktop\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.xml
 C:\Users\tere\Desktop\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.pdb
-X:\CLASE\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.exe.config
-X:\CLASE\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.exe
-X:\CLASE\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.pdb
-X:\CLASE\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.xml
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.AssemblyReference.cache
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmInicio.resources
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmConsultas.resources
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmNaveBBDD.resources
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.Resources.resources
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.GenerateResource.cache
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.CoreCompileInputs.cache
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.exe
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.xml
-X:\CLASE\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.pdb
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.exe.config
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.exe
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.pdb
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.xml
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.AssemblyReference.cache
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmInicio.resources
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmConsultas.resources
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.FrmNaveBBDD.resources
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.Resources.resources
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.GenerateResource.cache
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.exe
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.xml
+C:\Visual Studio\PruebaBBDD\PruebaBBDD\obj\Debug\PruebaBBDD.pdb
