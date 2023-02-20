@@ -2,7 +2,7 @@
 Public Class FrmConsultas
     Dim oDataAdapter As OleDbDataAdapter
     Dim oDataSet As New DataSet
-    Dim oConexion As New OleDbConnection
+    Dim oConexion As New OleDbConnection <--- Aqui tienes creado la conexion que te da problemas por tenerla duplicada
     Dim oCommandBuilder As OleDbCommandBuilder
     Dim i As Integer
     Dim MiTablas As DataTable
